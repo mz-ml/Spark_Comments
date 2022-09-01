@@ -25,7 +25,7 @@
   - Prediction on Testing Set
 
 - Estimated Classification of Cat/Dog Owners
-  - Estimated Cat/Dog Owners = # of labeled owners + # predicted unlabeled owners
+  - $Estimated Cat/Dog Owners = # of labeled owners + # predicted unlabeled owners$
 
 - Important Topics Identification [PySpark.ml]
   - Latent Dirichlet Allocation
