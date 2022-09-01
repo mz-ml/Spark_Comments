@@ -10,12 +10,12 @@
 
 - Data Exploration and Preprocessing 
   - Load and Explore Data
-  - Label Data (manually)
+  - *Label Data*
   - Create Pipeline
     - Tokenizer
     - Remover
-    - Word2Vec *(for owner prediction)*
-    - Stemmer + TF-IDF *(for topic identification)*
+    - Word2Vec [for owner prediction]
+    - Stemmer + TF-IDF [for topic identification]
   - Split Dataset
 
 - Cat/Dog Owners Prediction [PySpark.ml]
