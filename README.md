@@ -2,9 +2,9 @@
 
 #### Project Goals 
 
-1. To predict pet owners based on video comments [PySpark.ml]
-3. To identify important topics among all estimated pet owners [PySpark.ml]
-4. To identify popular video creators among all estimated pet owners [PySpark.sql]
+1. To predict pet owners based on video comments *[PySpark.ml]
+3. To identify important topics among all estimated pet owners *[PySpark.ml]
+4. To identify popular video creators among all estimated pet owners *[PySpark.sql]
 
 #### Outline
 
@@ -14,8 +14,8 @@
   - Create Pipeline
     - Tokenizer
     - Remover
-    - Word2Vec [for owner prediction]
-    - Stemmer + TF-IDF [for topic identification]
+    - Word2Vec *for owner prediction*
+    - Stemmer + TF-IDF *for topic identification*
   - Split Dataset
 
 - Cat/Dog Owners Prediction 
