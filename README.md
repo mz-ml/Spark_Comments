@@ -3,8 +3,8 @@
 #### Project Goals 
 
 1. To predict pet owners based on video comments
-3. To identify important topics for all estimated pet owners
-4. To identify popular video creators for all estimated pet owners
+3. To identify important topics among all estimated pet owners
+4. To identify popular video creators among all estimated pet owners
 
 #### Outline
 
