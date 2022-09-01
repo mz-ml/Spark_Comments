@@ -1,25 +1,36 @@
 ## User Comments on Pet Videos
 
-#### Project Statement 
+#### Project Goals 
 
-- By applying Survival Analysis, this paper examines the effects of education on marriage transition for men and women by urban-rural residence in different periods of economic reform.
+1. To predict pet owners based on video comments
+3. To identify important topics for all estimated pet owners
+4. To identify popular video creators for all estimated pet owners
 
 #### Outline
 
 - Data Exploration and Preprocessing 
   - Load and Explore Data
-  - Labele data
-  - Tokenize Text
-  - Remove Stopwords
+  - Label Data (manually)
+  - Create Pipeline
+    - Tokenizer
+    - Remover
+    - Word2Vec *(for owner prediction)*
+    - Stemmer + TF-IDF *(for topic identification)*
   - Split Dataset
-- Model Training and Selection
-  - Build classifiers for the cat/dog owners
-    - **Logistic Regression**
-    - **Gradient-Boosted Trees**
-  - Measure the performance of the classifiers
-- Predicted Classification of Cat/Dog Owners
-- Important Topics to Cat/Dog Owners
-- Popular Creatiors among Cat/Dog Owners
+
+- Cat/Dog Owners Prediction [PySpark.ml]
+  - Model Training and Selection on Training Set 
+   - **Logistic Regression**
+   - **Gradient-Boosted Trees**
+  - Prediction on Testing Set
+
+- Estimated Classification of Cat/Dog Owners
+  - Estimated Cat/Dog Owners = # of labeled owners + # predicted unlabeled owners
+
+- Important Topics Identification [PySpark.ml]
+  - Latent Dirichlet Allocation
+  
+- Popular Creatiors Identification [PySpark.sql]
 
 
 #### PDF Preview
