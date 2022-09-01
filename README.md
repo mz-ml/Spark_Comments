@@ -15,7 +15,7 @@
     - Tokenizer
     - Remover
     - Word2Vec  ~ *owner prediction*
-    - Stemmer + TF-IDF  ~ *topic identification*
+    - Stemmer+TFIDF  ~ *topic identification*
   - Split Dataset
 
 - Cat/Dog Owners Prediction 
