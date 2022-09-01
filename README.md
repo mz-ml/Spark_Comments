@@ -14,8 +14,8 @@
   - Create Pipeline
     - Tokenizer
     - Remover
-    - Word2Vec  *~ owner prediction*
-    - Stemmer + TF-IDF  *~ topic identification*
+    - Word2Vec  ~ *owner prediction*
+    - Stemmer + TF-IDF  ~ *topic identification*
   - Split Dataset
 
 - Cat/Dog Owners Prediction 
