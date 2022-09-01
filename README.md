@@ -20,12 +20,12 @@
 
 - Cat/Dog Owners Prediction [PySpark.ml]
   - Model Training and Selection on Training Set 
-   - **Logistic Regression**
-   - **Gradient-Boosted Trees**
+    - **Logistic Regression**
+    - **Gradient-Boosted Trees**
   - Prediction on Testing Set
 
 - Estimated Classification of Cat/Dog Owners
-  - $Estimated Cat/Dog Owners = labeled owners + predicted unlabeled owners$
+  - $Estimated \space Owners = labeled \space owners + predicted \space unlabeled \space owners$
 
 - Important Topics Identification [PySpark.ml]
   - Latent Dirichlet Allocation
