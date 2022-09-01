@@ -6,26 +6,22 @@
 
 #### Outline
 
-- Exploring and Preprocessing Data
+- Data Exploration and Preprocessing 
   - Load and Explore Data
   - Labele data
   - Tokenize Text
   - Remove Stopwords
-  - Split Data
-
-- Building and Evaluating Classifiers
+  - Split Dataset
+- Model Training and Selection
   - Build classifiers for the cat/dog owners
     - **Logistic Regression**
     - **Gradient-Boosted Trees**
   - Measure the performance of the classifiers
-
-- Predicting Cat/Dog Owners
-
-- Identifying Topics Important to Cat/Dog Owners
-
-- Identifying Creators with Most Comments by Cat/Dog Owners. 
+- Predicted Classification of Cat/Dog Owners
+- Important Topics to Cat/Dog Owners
+- Popular Creatiors among Cat/Dog Owners
 
 
 #### PDF Preview
 
-https://github.com/mingzhao1103/Stata_Marriage/blob/main/report.pdf
+https://htmlpreview.github.io/?https://github.com/mingzhao1103/Spark_Comments/blob/main/comments.html
