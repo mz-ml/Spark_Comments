@@ -2,9 +2,9 @@
 
 #### Project Goals 
 
-1. To predict pet owners based on video comments *[PySpark.ml]*
+1. To predict who are pet owners based on video comments *[PySpark.ml]*
 3. To identify important topics among all estimated pet owners *[PySpark.ml]*
-4. To identify popular video creators among all estimated pet owners *[PySpark.sql]*
+4. To recognize popular video creators among all estimated pet owners *[PySpark.sql]*
 
 #### Outline
 
@@ -36,3 +36,4 @@
 #### PDF Preview
 
 https://htmlpreview.github.io/?https://github.com/mingzhao1103/Spark_Comments/blob/main/comments.html
+
