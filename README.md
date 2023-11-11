@@ -14,13 +14,14 @@
   - Create Pipeline
     - Tokenizer
     - Remover
-    - Word2Vec  ~ *owner prediction*
-    - Stemmer+TFIDF  ~ *topic identification*
+    - Word2Vec  ~ *for owner prediction*
+    - Stemmer+TFIDF  ~ *for topic identification*
   - Split Dataset
 
 - Cat/Dog Owners Prediction 
   - Model Training and Selection on Training Set 
     - **Logistic Regression**
+    - **Random Forest**
     - **Gradient-Boosted Trees**
   - Prediction on Testing Set
 
