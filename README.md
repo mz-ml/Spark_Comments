@@ -10,7 +10,7 @@
 
 - Data Exploration and Preprocessing 
   - Load and Explore Data
-  - *Label Data*
+  - Label Data
   - Create Pipeline
     - Tokenizer
     - Remover
